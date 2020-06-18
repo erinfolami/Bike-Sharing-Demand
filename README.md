@@ -1,6 +1,6 @@
 # Bike-Sharing-Demand
 
-#Overview
+Overview
 
 Bike sharing systems are a means of renting bicycles where the process of obtaining
 membership, rental, and bike return is automated via a network of kiosk locations
